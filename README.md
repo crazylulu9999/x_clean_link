@@ -2,6 +2,8 @@
 
 A Chrome extension that removes tracking parameters from post and profile links copied on X (Twitter).
 
+This is an unofficial project and is not affiliated with or endorsed by X Corp. "X" and "Twitter" are trademarks of X Corp.
+
 ```
 https://x.com/example_handle/status/1234567890123456789?a=AbCdEfGhIjKlMnOpQrS&s=20
 → https://x.com/example_handle/status/1234567890123456789
