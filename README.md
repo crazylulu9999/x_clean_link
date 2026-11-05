@@ -1,5 +1,9 @@
 # X Clean Link
 
+[![English](https://img.shields.io/badge/English-blue?style=flat-square)](README.md)
+[![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey?style=flat-square)](README.ko.md)
+[![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey?style=flat-square)](README.ja.md)
+
 A Chrome extension that removes tracking parameters from post and profile links copied on X (Twitter).
 
 This is an unofficial project and is not affiliated with or endorsed by X Corp. "X" and "Twitter" are trademarks of X Corp.
