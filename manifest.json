@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "X Clean Link",
+  "version": "0.1.0",
+  "description": "Removes tracking parameters from post and profile links copied on X (Twitter).",
+  "minimum_chrome_version": "111",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://x.com/*",
+        "https://www.x.com/*",
+        "https://mobile.x.com/*",
+        "https://twitter.com/*",
+        "https://www.twitter.com/*",
+        "https://mobile.twitter.com/*"
+      ],
+      "js": ["src/clean.js", "src/hook.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
